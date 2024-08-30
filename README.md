@@ -4,3 +4,6 @@ This repository contains an end-to-end imaginary e-commerce project investigatin
 Questions:
  1. Which customers are churning?
  2. What factors are contributing to cart abandonment?
+
+Task:
+Identifying and analyzing customer behavior data, with the goal of pinpointing the root causes of the customer churn and cart abandonment
